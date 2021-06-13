@@ -1,0 +1,152 @@
+[
+    {
+        "groupName": "Group A",
+        "teams": [
+            {
+                "id": "66",
+                "name": "Italy",
+                "code": "ITA"
+            },
+            {
+                "id": "128",
+                "name": "Switzerland",
+                "code": "SUI"
+            },
+            {
+                "id": "135",
+                "name": "Turkey",
+                "code": "TUR"
+            },
+            {
+                "id": "144",
+                "name": "Wales",
+                "code": "WAL"
+            }
+        ]
+    },
+    {
+        "groupName": "Group B",
+        "teams": [
+            {
+                "id": "13",
+                "name": "Belgium",
+                "code": "BEL"
+            },
+            {
+                "id": "35",
+                "name": "Denmark",
+                "code": "DEN"
+            },
+            {
+                "id": "42",
+                "name": "Finland",
+                "code": "FIN"
+            },
+            {
+                "id": "57451",
+                "name": "Russia",
+                "code": "RUS"
+            }
+        ]
+    },
+    {
+        "groupName": "Group C",
+        "teams": [
+            {
+                "id": "8",
+                "name": "Austria",
+                "code": "AUT"
+            },
+            {
+                "id": "95",
+                "name": "Netherlands",
+                "code": "NED"
+            },
+            {
+                "id": "59205",
+                "name": "North Macedonia",
+                "code": "MKD"
+            },
+            {
+                "id": "57166",
+                "name": "Ukraine",
+                "code": "UKR"
+            }
+        ]
+    },
+    {
+        "groupName": "Group D",
+        "teams": [
+            {
+                "id": "56370",
+                "name": "Croatia",
+                "code": "CRO"
+            },
+            {
+                "id": "58837",
+                "name": "Czech Republic",
+                "code": "CZE"
+            },
+            {
+                "id": "39",
+                "name": "England",
+                "code": "ENG"
+            },
+            {
+                "id": "117",
+                "name": "Scotland",
+                "code": "SCO"
+            }
+        ]
+    },
+    {
+        "groupName": "Group E",
+        "teams": [
+            {
+                "id": "109",
+                "name": "Poland",
+                "code": "POL"
+            },
+            {
+                "id": "58836",
+                "name": "Slovakia",
+                "code": "SVK"
+            },
+            {
+                "id": "122",
+                "name": "Spain",
+                "code": "ESP"
+            },
+            {
+                "id": "127",
+                "name": "Sweden",
+                "code": "SWE"
+            }
+        ]
+    },
+    {
+        "groupName": "Group F",
+        "teams": [
+            {
+                "id": "43",
+                "name": "France",
+                "code": "FRA"
+            },
+            {
+                "id": "47",
+                "name": "Germany",
+                "code": "GER"
+            },
+            {
+                "id": "57",
+                "name": "Hungary",
+                "code": "HUN"
+            },
+            {
+                "id": "110",
+                "name": "Portugal",
+                "code": "POR"
+            }
+        ]
+    }
+]

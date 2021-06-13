@@ -1,0 +1,23 @@
+{
+  "name": "euro2020api",
+  "version": "1.0.0",
+  "description": "API for CLI app EURO 2020 in Terminal ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akbar Ramadhan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "tabWidth": 4,
+    "printWidth": 100,
+    "trailingComma": "none",
+    "semi": true
+  }
+}
